@@ -1,0 +1,82 @@
+body{
+
+  background: linear-gradient(110deg, #fdcd3b 50%, #ffed4b 50%);
+  margin: 0;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   overflow-y: scroll;
+);
+
+
+background-repeat: no-repeat;
+}
+
+
+
+
+.name{
+  margin:auto;
+  width:100%;
+  color: black;
+  background-color: inherit;
+  text-align: center;
+  padding-top: 3%;
+  font-size:200%;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+.iconimg{
+  width: 150px;
+  height: 150px;
+  padding-top: 3%;
+
+  margin: auto;
+  display: block;
+}
+
+
+.myself{
+  padding-top: 2%;
+margin: auto;
+ width:40%;
+ position: relative;
+ text-shadow: 2px 2px 5px black;
+ padding: 0;
+ color: black;
+ opacity: 1;
+}
+
+.tbl{
+  margin: auto;
+  padding: 2%;
+  opacity: 1;
+  width:40%;
+  background-color: inherit;
+  padding-bottom: 10%;
+
+
+}
+
+.tbl1{
+  margin:auto;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer a{
+  color: white;
+  text-decoration: none;
+
+  flex: 0 0 50px;/*or just height:50px;*/
+  margin-top: auto;
+}
